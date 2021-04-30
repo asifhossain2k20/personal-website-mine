@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    padding: 0;
 }
 header{
     height: 70px;
@@ -23,7 +24,7 @@ a:hover{
     color: darkblue;
 }
 section{
-    height: 600px;
+    height: 650px;
 }
 
 .btn-style{
@@ -126,7 +127,7 @@ footer li{
 
 .subs-body{
     height: 200px;
-    width: 100%;
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -158,4 +159,5 @@ footer li{
 h2{
     text-align: center;
     color: red;
+    width: 100%;
 }
